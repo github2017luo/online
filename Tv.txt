@@ -323,6 +323,27 @@
       "type": 0,
       "api":"http://bbzy.cc/inc/maccms10.php",
       "playUrl": ""
+    },
+    {
+      "key": "U貓资源",
+      "name": "U貓资源",
+      "type": 0,
+      "api":"http://umao.ml/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "播放呀资源",
+      "name": "播放呀资源",
+      "type": 0,
+      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "鯊魚资源",
+      "name": "鯊魚资源",
+      "type": 0,
+      "api":"https://shayuapi.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     }
   ],
   "lives": [
