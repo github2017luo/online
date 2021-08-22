@@ -325,17 +325,17 @@
       "playUrl": ""
     },
     {
-      "key": "U貓资源",
-      "name": "U貓资源",
+      "key": "紅牛资源",
+      "name": "紅牛资源",
       "type": 0,
-      "api":"http://umao.ml/api.php/provide/vod/at/xml/",
+      "api":"https://www.hongniuzy.com/inc/api.php",
       "playUrl": ""
     },
     {
-      "key": "播放呀资源",
-      "name": "播放呀资源",
+      "key": "超碰资源",
+      "name": "超碰资源",
       "type": 0,
-      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
+      "api": "http://zy.cpdaquan.com/inc/api.php",
       "playUrl": ""
     },
     {
