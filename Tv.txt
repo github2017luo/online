@@ -325,17 +325,17 @@
       "playUrl": ""
     },
     {
-      "key": "紅牛资源",
-      "name": "紅牛资源",
+      "key": "穿梭资源",
+      "name": "穿梭资源",
       "type": 0,
-      "api":"https://www.hongniuzy.com/inc/api.php",
+      "api":"http://ok.888hyk.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
-      "key": "超碰资源",
-      "name": "超碰资源",
+      "key": "速搜资源",
+      "name": "速搜资源",
       "type": 0,
-      "api": "http://zy.cpdaquan.com/inc/api.php",
+      "api": "http://www.susouzy.com/api.php/provide/vod/?ac=list",
       "playUrl": ""
     },
     {
