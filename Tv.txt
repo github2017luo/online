@@ -316,6 +316,13 @@
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "playUrl": ""
+    },
+    {
+      "key": "BB资源",
+      "name": "BB资源",
+      "type": 0,
+      "api":"http://bbzy.cc/inc/maccms10.php",
+      "playUrl": ""
     }
   ],
   "lives": [
