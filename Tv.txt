@@ -255,11 +255,11 @@
       "playUrl": ""
     },
     {
-      "key": "天堂影视",
-      "name": "天堂影视",
+      "key": "1717云",
+      "name": "1717云",
       "type": 0,
-      "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.parwix.com:4433/player/?url="
+      "api": "http://zy.itono.cn/inc/api.php",
+      "playUrl": ""
     },
     {
       "key": "百度采集",
@@ -325,10 +325,10 @@
       "playUrl": ""
     },
     {
-      "key": "穿梭资源",
-      "name": "穿梭资源",
+      "key": "豆瓣云资源",
+      "name": "豆瓣云资源",
       "type": 0,
-      "api":"http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "api":"http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
