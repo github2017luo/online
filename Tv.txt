@@ -351,13 +351,6 @@
       "type": 0,
       "api":"http://api.appearoo.top/api.php/provide/vod/at/xml",
       "playUrl": ""
-    },
-    {
-      "key": "玉米资源",
-      "name": "玉米资源",
-      "type": 0,
-      "api":"http://yumi.video/api.php/provide/vod/at/xml/",
-      "playUrl": ""
     }
   ],
   "lives": [
