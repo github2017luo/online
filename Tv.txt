@@ -353,10 +353,10 @@
       "playUrl": ""
     },
     {
-      "key": "老鴨资源",
-      "name": "老鴨资源",
+      "key": "玉米资源",
+      "name": "玉米资源",
       "type": 0,
-      "api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+      "api":"http://yumi.video/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
   ],
