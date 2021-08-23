@@ -344,6 +344,20 @@
       "type": 0,
       "api":"https://shayuapi.com/api.php/provide/vod/at/xml",
       "playUrl": ""
+    },
+    {
+      "key": "江湖资源",
+      "name": "江湖资源",
+      "type": 0,
+      "api":"http://sm.2021ys.ltd/mv/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "江湖资源",
+      "name": "江湖资源",
+      "type": 0,
+      "api":"http://sm.2021ys.ltd/mv/api.php/provide/vod/at/xml",
+      "playUrl": ""
     }
   ],
   "lives": [
