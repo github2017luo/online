@@ -353,8 +353,8 @@
       "playUrl": ""
     },
     {
-      "key": "江湖资源",
-      "name": "江湖资源",
+      "key": "U酷资源",
+      "name": "U酷资源",
       "type": 0,
       "api":"http://sm.2021ys.ltd/mv/api.php/provide/vod/at/xml",
       "playUrl": ""
