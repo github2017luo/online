@@ -353,11 +353,11 @@
       "playUrl": ""
     },
     {
-      "key": "北斗星资源",
-      "name": "北斗星资源",
+      "key": "淘片资源",
+      "name": "淘片资源",
       "type": 0,
-      "api":"https://api.bdxzyapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://player.bdxzym3u8.com/dplayer/?url="
+      "api":"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml/iframe",
+      "playUrl": ""
     }
   ],
   "lives": [
