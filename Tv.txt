@@ -376,7 +376,7 @@
     {
       "key": "番茄资源",
       "name": "番茄资源",
-      "type": 0,
+      "type": 1,
       "api":"http://api.fqzy.cc/api.php/provide/vod/?ac=list",
       "playUrl": ""
     }
