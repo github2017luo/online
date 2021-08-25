@@ -365,6 +365,20 @@
       "type": 0,
       "api":"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml/iframe",
       "playUrl": ""
+    },
+    {
+      "key": "紅牛资源",
+      "name": "紅牛资源",
+      "type": 0,
+      "api":"http://www.hongniuzy.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 0,
+      "api":"http://api.fqzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl": ""
     }
   ],
   "lives": [
