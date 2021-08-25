@@ -353,6 +353,13 @@
       "playUrl": ""
     },
     {
+      "key": "無盡资源",
+      "name": "無盡资源",
+      "type": 0,
+      "api":"https://api.wujinapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "淘片资源",
       "name": "淘片资源",
       "type": 0,
