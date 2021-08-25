@@ -346,39 +346,18 @@
       "playUrl": ""
     },
     {
-      "key": "萌果资源",
-      "name": "萌果资源",
+      "key": "蒼天资源",
+      "name": "蒼天资源",
       "type": 0,
-      "api":"http://api.appearoo.top/api.php/provide/vod/at/xml",
+      "api":"http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
-      "key": "bukai资源",
-      "name": "bukai资源",
+      "key": "北斗星资源",
+      "name": "北斗星资源",
       "type": 0,
-      "api":"http://c.bukai.men/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "獨播庫资源",
-      "name": "獨播庫资源",
-      "type": 0,
-      "api":"http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "赞片VIP",
-      "name": "赞片VIP",
-      "type": 0,
-      "api":"http://vip.1573i.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": 豬豬影視",
-      "name": "豬豬影視",
-      "type": 0,
-      "api":"https://www.zzyingyuan.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
+      "api":"https://api.bdxzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://player.bdxzym3u8.com/dplayer/?url="
     }
   ],
   "lives": [
