@@ -290,11 +290,11 @@
       "playUrl": ""
     },
     {
-      "key": "293影院",
-      "name": "293影院",
-      "type": 0,
-      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.jhdyw.vip/?url="
+      "key": "免費影院",
+      "name": "免費影院",
+      "type": 1,
+      "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "新女神",
@@ -318,10 +318,10 @@
       "playUrl": ""
     },
     {
-      "key": "豆瓣云资源",
-      "name": "豆瓣云资源",
+      "key": "白熊资源",
+      "name": "白熊资源",
       "type": 0,
-      "api":"http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
+      "api":"https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
