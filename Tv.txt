@@ -269,11 +269,11 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
-      "key": "陈家影视",
-      "name": "陈家影视",
+      "key": "姨妈云",
+      "name": "姨妈云",
       "type": 1,
-      "api": "https://www.cjt521.com/api.php/provide/vod/",
-      "playUrl": "https://jiexi.cjt521.com/?url="
+      "api": "http://app.yiciyuan.me/api.php/provide/vod/at/xml/",
+      "playUrl": ""
     },
     {
       "key": "小蜻蜓采集",
@@ -304,11 +304,11 @@
       "playUrl": ""
     },
     {
-      "key": "真不卡",
-      "name": "真不卡",
+      "key": "安逸影院",
+      "name": "安逸影院",
       "type": 0,
-      "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v="
+      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "8090资源",
