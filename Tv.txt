@@ -318,13 +318,6 @@
       "playUrl": ""
     },
     {
-      "key": "BB资源",
-      "name": "BB资源",
-      "type": 0,
-      "api":"http://bbzy.cc/inc/maccms10.php",
-      "playUrl": ""
-    },
-    {
       "key": "豆瓣云资源",
       "name": "豆瓣云资源",
       "type": 0,
@@ -336,20 +329,6 @@
       "name": "天空资源",
       "type": 0,
       "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "鯊魚资源",
-      "name": "鯊魚资源",
-      "type": 0,
-      "api":"https://shayuapi.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "蒼天资源",
-      "name": "蒼天资源",
-      "type": 0,
-      "api":"http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -378,6 +357,27 @@
       "name": "番茄资源",
       "type": 1,
       "api":"http://api.fqzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl": ""
+    },
+    {
+      "key": "BB资源",
+      "name": "BB资源",
+      "type": 0,
+      "api":"http://bbzy.cc/inc/maccms10.php",
+      "playUrl": ""
+    },
+    {
+      "key": "鯊魚资源",
+      "name": "鯊魚资源",
+      "type": 0,
+      "api":"https://shayuapi.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "蒼天资源",
+      "name": "蒼天资源",
+      "type": 0,
+      "api":"http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
   ],
