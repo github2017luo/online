@@ -271,7 +271,7 @@
     {
       "key": "姨妈云",
       "name": "姨妈云",
-      "type": 1,
+      "type": 2,
       "api": "http://app.yiciyuan.me/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
