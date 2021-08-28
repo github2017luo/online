@@ -290,10 +290,10 @@
       "playUrl": ""
     },
     {
-      "key": "免費影院",
-      "name": "免費影院",
+      "key": "88影視",
+      "name": "88影視",
       "type": 1,
-      "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
+      "api": "http://www.88zy.live/inc/m3u8.php",
       "playUrl": ""
     },
     {
