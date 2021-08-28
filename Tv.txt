@@ -379,7 +379,6 @@
       "type": 0,
       "api":"http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-    ]
     }
 ],
   "lives": [
