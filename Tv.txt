@@ -379,6 +379,7 @@
       "type": 0,
       "api":"http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
+    ]
     }
   ],
   "lives": [
@@ -582,55 +583,16 @@
           ]
         }
       ]
-    },
-    {
-      "group": "台灣",
-      "channels": [
-        {
-          "name": "民視",
-          "urls": [
-            "rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051"
-          ]
-        },
-        {
-          "name": "台視",
-          "urls": [
-            "rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071"
-          ]
-        },
-        {
-          "name": "中視",
-          "urls": [
-            "rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091"
-          ]
-        },
-        {
-          "name": "華視",
-          "urls": [
-            "rtmp://161.202.204.248:1935/sat/tv111"
-          ]
-        },
-        {
-          "name": "三立台灣台",
-          "urls": [
-            "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on"
-          ],
-        }
-      ]
     }
   ],
   "parses": [
     {
       "name": "默认",
-      "url": "https://api.jhdyw.vip/?url="
-    },
-    {
-      "name": "vip",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "OK",
       "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "bl解析",
+      "url": "https://vip.bljiex.com/?v="
     },
     {
       "name": "急速",
