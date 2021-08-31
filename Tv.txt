@@ -675,7 +675,41 @@
           "urls": [
             "http://223.110.241.206:6610/gitv/live1/G_LIAONING-HD-265-5M/G_LIAONING-HD-265-5M"
           ]
+        }, 
+       { 
+        "group": "台灣頻道",
+      "channels": [
+        {
+          "name": "三立台灣",
+          "urls": [
+            "http://125.227.210.55:15714/VideoInput/play.ts"
+          ]
         },
+        {
+          "name": "中天娛樂",
+          "urls": [
+            "http://125.227.210.37:15796/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "東森洋片",
+          "urls": [
+            "http://125.227.210.37:18685/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "衛視洋片",
+          "urls": [
+            "http://125.227.210.37:18789/VideoInput/play.ts"
+          ]
+        },
+        {
+          "name": "龍祥時代",
+          "urls": [
+            "rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D"
+          ]
+        }
+      ]
         {
           "name": "山东卫视",
           "urls": [
