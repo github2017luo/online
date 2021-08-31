@@ -496,36 +496,36 @@
 ],
   "lives": [
     {
-      "group": "足球",
+      "group": "台灣",
       "channels": [
         {
-          "name": "五星体育",
+          "name": "三立台灣台",
           "urls": [
-            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
+            "http://125.227.210.55:15714/VideoInput/play.ts"
           ]
         },
         {
-          "name": "魅力足球",
+          "name": "中天娛樂台",
           "urls": [
-            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
+            "http://125.227.210.37:15796/VideoInput/play.ts"
           ]
         },
         {
-          "name": "劲爆体育",
+          "name": "HBO",
           "urls": [
-            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
+            "http://125.227.210.37:16027/VideoInput/play.ts"
           ]
         },
         {
-          "name": "足球频道",
+          "name": "TVBS新聞台",
           "urls": [
-            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+            "http://125.227.210.37:16329/VideoInput/play.ts"
           ]
         },
         {
-          "name": "广东体育",
+          "name": "衛視洋片台",
           "urls": [
-            "http://149.129.100.78/guangdong.php?id=47"
+            "http://125.227.210.37:18789/VideoInput/play.ts"
           ]
         }
       ]
