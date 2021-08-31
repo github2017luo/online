@@ -360,17 +360,17 @@
       "playUrl": ""
     },
     {
-      "key": "Bilibili",
-      "name": "Bilibili",
-      "type": 2,
-      "api":"http://zy.itono.cn/inc/bilibili.php",
-      "playUrl": "https://www.cuan.la/m3u8.php?url="
+      "key": "茄子资源",
+      "name": "茄子资源",
+      "type": 0,
+      "api":"https://qiezizy.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
-      "key": "丝袜资源",
-      "name": "丝袜资源",
-      "type": 2,
-      "api":"https://www.siwazyw.com/api.php/provide/vod/at/xml",
+      "key": "秀色资源",
+      "name": "秀色资源",
+      "type": 0,
+      "api":"https://api.xiuseapi.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
