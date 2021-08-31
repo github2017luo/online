@@ -26,6 +26,13 @@
       ]
     },
     {
+      "key": "bilibili",
+      "name": "bilibili",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/bilibili.php",
+      "playUrl": "https://www.cuan.la/m3u8.php?url="
+    },
+    {
       "key": "afys_spider",
       "name": "爬虫源1",
       "type": 2,
@@ -367,10 +374,10 @@
       "playUrl": "http://jiexi.sxmj.wang/jx.php?url="
     },
      {
-      "key": "ae86zy",
-      "name": "ae86zy",
+      "key": "猛牛",
+      "name": "猛牛",
       "type": 0,
-      "api": "https://www.ae86zy.com/api.php/provide/vod/at/xml"
+      "api": "http://nen13.space/api.php/provide/vod/at/xml"
     },
     {
       "key": "佳丽資源",
