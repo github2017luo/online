@@ -372,6 +372,20 @@
       "type": 0,
       "api":"https://api.xiuseapi.com/api.php/provide/vod/at/xml",
       "playUrl": ""
+    }, 
+    {
+      "key": "芒果资源",
+      "name": "芒果资源",
+      "type": 0,
+      "api":"https://mgzyz1.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "桃色资源",
+      "name": "桃色资源",
+      "type": 0,
+      "api":"https://cj.taoseapi.com/inc/api.php",
+      "playUrl": ""
     },
     {
       "key": "BB资源",
