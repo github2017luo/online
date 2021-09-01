@@ -890,6 +890,38 @@
     {
       "name": "8090",
       "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "⽆⼴告通⽤",
+      "url": "http://www.2ajx.com/vip.php?url="
+    },
+    {
+      "name": "通⽤HTTP接⼝",
+      "url": "http://api.steak517.top/?url="
+    },
+    {
+      "name": "九八看",
+      "url": "https://jx.youyitv.com/?url="
+    },
+    {
+      "name": "91视频解析",
+      "url": "https://www.91jxs.com/jiexi/?url="
+    },
+    {
+      "name": "⼩野⻢解析",
+      "url": "https://www.xymav.com/?url="
+    },
+    {
+      "name": "诺讯智能解析",
+      "url": "https://www.nxflv.com/?url="
+    },
+    {
+      "name": "Playm3u8解析",
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
+    },
+    {
+      "name": "qji视频解析",
+      "url": "http://vip.qji.me/"
     }
   ],
   "flags": [
