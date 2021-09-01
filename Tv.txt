@@ -369,7 +369,7 @@
      {
       "key": "云播資源",
       "name": "云播資源",
-      "type": 1,
+      "type": 2,
       "api": "http://bxin.tv/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
