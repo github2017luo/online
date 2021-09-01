@@ -213,6 +213,34 @@
       ]
     },
     {
+      "key": "电牛资源",
+      "name": "电牛资源",
+      "type": 0,
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "看看屋",
+      "name": "看看屋",
+      "type": 0,
+      "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "0号资源",
+      "name": "0号资源",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/at/xml/",
+      "playUrl": "" 
+    },
+    {
+      "key": "神马影院",
+      "name": "神马影院",
+      "type": 0,
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "09蓝光影视",
       "name": "09蓝光影视",
       "type": 0,
