@@ -926,6 +926,18 @@
     {
       "name": "isryun",
       "url": "http://jx.isryun.com/?v="
+    },
+    {
+      "name": "全網解析",
+      "url": "https://jx.elwtc.com/vip/?url="
+    },
+    {
+      "name": "kpezp",
+      "url": "https://www.kpezp.cn/jlexi.php?url="
+    },
+    {
+      "name": "云解析",
+      "url": "https://jx.mw0.cc/?url="
     }
   ],
   "flags": [
