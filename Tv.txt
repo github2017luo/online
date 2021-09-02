@@ -922,6 +922,10 @@
     {
       "name": "qji视频解析",
       "url": "http://vip.qji.me/"
+    },
+    {
+      "name": "isryun",
+      "url": "http://jx.isryun.com/?v="
     }
   ],
   "flags": [
