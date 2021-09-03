@@ -57,7 +57,7 @@
       "name": "爱看影视",
       "type": 0,
       "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-      "playUrl": "https://jx.baiyu.buzz/?url=",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动漫",
@@ -217,7 +217,7 @@
       "name": "电牛资源",
       "type": 0,
       "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
+      "playUrl": "https://jx.baiyu.buzz/?url="
     },
     {
       "key": "看看屋",
