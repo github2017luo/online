@@ -938,6 +938,14 @@
     {
       "name": "云解析",
       "url": "https://jx.mw0.cc/?url="
+    },
+    {
+      "name": "凌云",
+      "url": "https://api.wrdan.com/play?url="
+    },
+    {
+      "name": "酷熊",
+      "url": "http://vip.kubear.cn/player.php?url="
     }
   ],
   "flags": [
