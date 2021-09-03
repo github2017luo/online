@@ -946,6 +946,18 @@
     {
       "name": "酷熊",
       "url": "http://vip.kubear.cn/player.php?url="
+    },
+    {
+      "name": "樱花",
+      "url": "https://buaon.xyz/?url="
+    },
+    {
+      "name": "喵派对",
+      "url": "https://jiexi.msdv.cn/?url="
+    },
+    {
+      "name": "白玉",
+      "url": "https://jx.baiyu.buzz/?url="
     }
   ],
   "flags": [
