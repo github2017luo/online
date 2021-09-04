@@ -255,6 +255,20 @@
       "playUrl": ""
     },
     {
+      "key": "6jobn7",
+      "name": "6jobn7",
+      "type": 0,
+      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key": "今日影視",
+      "name": "今日影視",
+      "type": 0,
+      "api": "http://mac.jin.345888.xyz/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "1717云",
       "name": "1717云",
       "type": 0,
