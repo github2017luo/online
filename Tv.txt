@@ -283,13 +283,6 @@
       "playUrl": ""
     },
     {
-      "key": "腾腾",
-      "name": "腾腾",
-      "type": 0,
-      "api": "https://kongbuya.com/api.php/provide/vod/from/qq/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "紅影",
       "name": "紅影",
       "type": 0,
