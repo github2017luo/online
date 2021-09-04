@@ -255,10 +255,24 @@
       "playUrl": ""
     },
     {
-      "key": "6jobn7",
-      "name": "6jobn7",
-      "type": 1,
-      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/",
+      "key": "迅雷資源",
+      "name": "迅雷資源",
+      "type": 0,
+      "api": "http://xunlei.fan/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "紅影",
+      "name": "紅影",
+      "type": 0,
+      "api": "http://csksk.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "飄花",
+      "name": "飄花",
+      "type": 0,
+      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
