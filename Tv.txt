@@ -255,10 +255,17 @@
       "playUrl": ""
     },
     {
-      "key": "迅雷資源",
-      "name": "迅雷資源",
+      "key": "tq904a",
+      "name": "tq904a",
       "type": 0,
-      "api": "http://xunlei.fan/api.php/provide/vod/at/xml/",
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "kjoe2g",
+      "name": "kjoe2g",
+      "type": 0,
+      "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -269,10 +276,10 @@
       "playUrl": ""
     },
     {
-      "key": "飄花",
-      "name": "飄花",
+      "key": "影派",
+      "name": "影派",
       "type": 0,
-      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
