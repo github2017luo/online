@@ -290,13 +290,6 @@
       "playUrl": ""
     },
     {
-      "key": "影派",
-      "name": "影派",
-      "type": 0,
-      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "今日影視",
       "name": "今日影視",
       "type": 0,
