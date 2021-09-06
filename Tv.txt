@@ -745,7 +745,15 @@
       "name": "默认",
       "url": "https://1.api.80tvs.cn/?url="
     },
-     {
+    {
+      "name": "VIP尊享",
+      "url": "https://player.maqq.cn/?url="
+    },
+    {
+      "name": "660e",
+      "url": "https://660e.com/?url="
+    },
+    {
       "name": "月亮",
       "url": "https://vip.jianjians.com/?url="
     },
@@ -828,6 +836,22 @@
     {
       "name": "8090G",
       "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "年报",
+      "url": "http://jx.nbjx.cc/?url="
+    },
+    {
+      "name": "暮光",
+      "url": "http://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+    },
+    {
+      "name": "初心弹幕",
+      "url": "https://jx.18mv.club/18mv.php?url="
+    },
+    {
+      "name": "番茄弹幕",
+      "url": "http://jiexi.fqzy.cc/player/jx.php?url="
     }
   ],
   "flags": [
