@@ -220,6 +220,20 @@
       "playUrl": ""
     },
     {
+      "key": "晓峰高清",
+      "name": "晓峰高清",
+      "type": 0,
+      "api": "http://api.xxcr.tk/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "热映解析",
+      "name": "热映解析",
+      "type": 0,
+      "api": "http://hl.reying.vip/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "看看屋",
       "name": "看看屋",
       "type": 0,
