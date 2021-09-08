@@ -689,7 +689,7 @@
       "playUrl": ""
     }
 ],
-   "lives": [
+  "lives": [
     {
       "group": "央视",
       "channels": [
@@ -905,18 +905,6 @@
           "urls": [
             "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
             "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
-          ]
-        },
-	{
-          "name": "三立台灣",
-          "urls": [
-            "p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts",
-          ]
-        },
-	{
-          "name": "民視",
-          "urls": [
-            "p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts",
           ]
         },
         {
