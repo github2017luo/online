@@ -89,15 +89,6 @@
       "filterable": 1
     },
     {
-      "key": "kby_spider",
-      "name": "恐怖鸭(原内置)",
-      "type": 2,
-      "api": "ZdZYGB9BcfXR6W",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "M3U8.TV",
       "name": "M3U8.TV",
       "type": 0,
@@ -317,14 +308,6 @@
       "categories": []
     },
     {
-      "key": "淘片优质直解",
-      "name": "淘片优质直解",
-      "type": 0,
-      "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
       "key": "喵派对蓝光",
       "name": "喵派对蓝光",
       "type": 0,
@@ -345,14 +328,6 @@
 		 "name": "乐奇异",
 		 "type": 0,
 	   "api": "https://www.lqiyi.co/api.php/provide/vod/at/xml",
-		 "playUrl": "",
-		 "categories": []
-	  },
-    {
-		 "key": "白嫖联盟",
-		 "name": "白嫖联盟",
-		 "type": 0,
-		 "api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
 		 "playUrl": "",
 		 "categories": []
 	  },
