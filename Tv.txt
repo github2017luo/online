@@ -341,6 +341,30 @@
       "categories": []
     },
     {
+		 "key": "乐奇异",
+		 "name": "乐奇异",
+		 "type": 0,
+	   "api": "https://www.lqiyi.co/api.php/provide/vod/at/xml",
+		 "playUrl": "",
+		 "categories": []
+	  },
+    {
+		 "key": "白嫖联盟",
+		 "name": "白嫖联盟",
+		 "type": 0,
+		 "api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
+		 "playUrl": "",
+		 "categories": []
+	  },
+    {
+		 "key": "无极影院",
+		 "name": "无极影院",
+		 "type": 0,
+		 "api": "http://wujiys.com/api.php/provide/vod/at/xml",
+		 "playUrl": "",
+		 "categories": []
+  	},
+    {
       "key": "电牛资源",
       "name": "电牛资源",
       "type": 0,
@@ -665,42 +689,7 @@
       "playUrl": ""
     }
 ],
-  "lives": [
-    {
-      "group": "台灣",
-      "channels": [
-        {
-          "name": "三立台灣台",
-          "urls": [
-            "http://125.227.210.55:15714/VideoInput/play.ts"
-          ]
-        },
-        {
-          "name": "中天娛樂台",
-          "urls": [
-            "http://125.227.210.37:15796/VideoInput/play.ts"
-          ]
-        },
-        {
-          "name": "HBO",
-          "urls": [
-            "http://125.227.210.37:16027/VideoInput/play.ts"
-          ]
-        },
-        {
-          "name": "TVBS新聞台",
-          "urls": [
-            "http://125.227.210.37:16329/VideoInput/play.ts"
-          ]
-        },
-        {
-          "name": "衛視洋片台",
-          "urls": [
-            "http://125.227.210.37:18789/VideoInput/play.ts"
-          ]
-        }
-      ]
-    },
+   "lives": [
     {
       "group": "央视",
       "channels": [
@@ -863,6 +852,65 @@
           "name": "天津卫视",
           "urls": [
             "http://223.110.241.206:6610/gitv/live1/G_TIANJIN-HD-265-5M/G_TIANJIN-HD-265-5M"
+          ]
+        }
+      ]
+    },
+        {
+      "group": "足球",
+      "channels": [
+        {
+          "name": "五星体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "魅力足球",
+          "urls": [
+            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "劲爆体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "足球频道",
+          "urls": [
+            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+          ]
+        },
+        {
+          "name": "广东体育",
+          "urls": [
+            "http://149.129.100.78/guangdong.php?id=47"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "港澳台",
+      "channels": [
+        {
+          "name": "凤凰卫视",
+          "urls": [
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
+          ]
+        },
+        {
+          "name": "私人地址",
+          "urls": [
+            "http://149.129.100.78/guangdong.php?id=473"
           ]
         }
       ]
