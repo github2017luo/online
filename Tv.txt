@@ -396,8 +396,8 @@
       "playUrl": ""
     },
     {
-      "key": "tq904a",
-      "name": "tq904a",
+      "key": "快播資源",
+      "name": "快播資源",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
