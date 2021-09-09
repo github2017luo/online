@@ -96,13 +96,6 @@
       "playUrl": "http://api.u1o.net/?url="
     },
     {
-      "key": "清莲资源",
-      "name": "清莲资源",
-      "type": 1,
-      "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
-      "playUrl": "http://api.u1o.net/?url="
-    },
-    {
       "key": "M3U8.TV",
       "name": "M3U8.TV",
       "type": 0,
