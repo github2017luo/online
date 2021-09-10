@@ -1,23 +1,7 @@
 
 {
   "sites": [
-    {
-		"key": "极品资源",
-		"name": "极品资源",
-		"type": 0,
-		"api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-    {
-		"key": "hg资源",
-		"name": "HG资源",
-		"type": 0,
-		"api": "http://hgyx.vip/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-     },
-    {
+    
       "key": "M3U8.TV",
       "name": "M3U8.TV",
       "type": 0,
