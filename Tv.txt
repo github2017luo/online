@@ -1,7 +1,7 @@
 
 {
   "sites": [
-    
+      {
       "key": "M3U8.TV",
       "name": "M3U8.TV",
       "type": 0,
