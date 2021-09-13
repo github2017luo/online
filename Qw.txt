@@ -1,0 +1,26 @@
+       [  
+       {
+        "ID": "1",
+	"name": "极品资源",
+        "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
+	"ispars": "true",
+	"type": "api",
+	"parsing": "",
+	},
+        {
+	"ID": "1",
+	"name": "HG资源",
+        "api": "http://hgyx.vip/api.php/provide/vod/at/xml",
+	"ispars": "true",
+	"type": "api",
+	"parsing": "",
+	},
+        {
+	"ID": "1",
+	"name": "U猫m3u8",
+        "api": "https://bljiex.com/api.php/provide/vod/at/xml",
+	"ispars": "true",
+	"type": "api",
+	"parsing": "",
+	},
+       ]
