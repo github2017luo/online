@@ -1,62 +1,8 @@
-[
+［
 {
 "ID": "1",
 "ParseName":"默认",
 "ParseUrl":"https://api.jhdyw.vip/?url=",
 "Click": true
 },
-{
-"ID": "1",
-"Parsename":"80tv",
-"Parseurl":"https://1.api.80tvs.cn/?url=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"月亮",
-"Parseurl":"https://vip.jianjians.com/?url=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"2Ajx",
-"Parseurl":"https://www.2ajx.com/vip.php?url=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"BL解析",
-"Parseurl":"https://vip.bljiex.com/?v=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"思古",
-"Parseurl":"http://www.2692222.com/?url=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"万福",
-"Parseurl":"https://jx.wfy4.com/?url=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"蓝猫",
-"Parseurl":"https://jx.daidaitv.top:43810/?url=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"MW0",
-"Parseurl":"https://jx.mw0.cc/?url=",
-"Click": true
-},
-{
-"ID": "1",
-"Parsename":"660e",
-"Parseurl":"https://660e.com/?url=",
-"Click": true
-},
-]
+］
