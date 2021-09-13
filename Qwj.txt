@@ -1,8 +1,8 @@
-［
+[
 {
-"ID": "1",
-"ParseName":"默认",
-"ParseUrl":"https://api.jhdyw.vip/?url=",
-"Click": true
+"id":"1"
+"parseName":"思古",
+"parseUrl":"http://www.2692222.com/?url=",
+"click": true
 },
-］
+]
