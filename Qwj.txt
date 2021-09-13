@@ -5,4 +5,52 @@
 "parseUrl":"http://www.2692222.com/?url=",
 "click": true
 },
+{
+"id":"1"
+"parseName":"哔哩",
+"parseUrl":"https://www.mtosz.com/m3u8.php?url=",
+"click": true
+},
+{
+"id":"1"
+"parseName":"万福",
+"parseUrl":"https://jx.wfy4.com/?url=",
+"click": true
+},
+{
+"id":"1"
+"parseName":"月亮",
+"parseUrl":"http://vip.jianjians.com/?url=",
+"click": true
+},
+{
+"id":"1"
+"parseName":"櫻花",
+"parseUrl":"https://buaon.xyz/?url=",
+"click": true
+},
+{
+"id":"1"
+"parseName":"宝莲",
+"parseUrl":"http://danmu.8old.cn/vip/?url=",
+"click": true
+},
+{
+"id":"1"
+"parseName":"柚子",
+"parseUrl":"http://jiexi.jiexizhuanyong.com/?url=",
+"click": true
+},
+{
+"id":"1"
+"parseName":"660e",
+"parseUrl":"https://660e.com/?url=",
+"click": true
+},
+{
+"id":"1"
+"parseName":"万能星驰",
+"parseUrl":"https://vip.swuii.top/?url=",
+"click": true
+},
 ]
