@@ -57,6 +57,78 @@
 		"playUrl": "",
 		"categories": []
 	},
+{
+      "key": "爱看1080",
+      "name": "爱看1080",
+      "type": 0,
+      "api": "http://www.ik1080.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "电影盒子",
+      "name": "电影盒子",
+      "type": 0,
+      "api": "http://cms.tvbox543.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "思乐影视",
+      "name": "思乐影视",
+      "type": 0,
+      "api": "https://www.4ltv.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "77电影",
+      "name": "77电影",
+      "type": 0,
+      "api": "https://www.77diany.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "韩剧资源",
+      "name": "韩剧资源",
+      "type": 0,
+      "api": "http://www.hanjuzy.com/inc/api.php",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "酷点资源",
+      "name": "酷点资源",
+      "type": 0,
+      "api": "https://kudian8.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "YT资源",
+      "name": "YT资源",
+      "type": 0,
+      "api": "http://ytys.cc/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "嘿峰影视",
+      "name": "嘿峰影视",
+      "type": 0,
+      "api": "https://www.hfys8.vip/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+{
+      "key": "若梦影视",
+      "name": "若梦影视",
+      "type": 0,
+      "api": "http://47.106.80.129/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
         {
       "key": "神马影院",
       "name": "神马影院",
