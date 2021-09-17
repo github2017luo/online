@@ -5,9 +5,9 @@
 安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
 U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,不解析
 爱看1080,http://www.ik1080.com/api.php/provide/vod/at/xml,不解析
-思乐影视,https://www.4ltv.com/api.php/provide/vod/at/xml,不解析
+神马影院,http://www.zitv.cc/api.php/provide/vod/at/xml/,不解析
+美剧星球,https://www.meijuxq.com/inc/api.php,不解析
 M3U8.TV,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n,不解析
-乐奇异,https://www.lqiyi.co/api.php/provide/vod/at/xml,不解析
 KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,不解析
 BB资源,http://bbzy.cc/inc/maccms10.php,不解析
 番号,http://fhapi9.com/api.php/Seacms/vod/at/xml,不解析
