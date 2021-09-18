@@ -26,7 +26,7 @@ BL视频,https://bljiex.com/api.php/provide/vod/at/xml,不解析
 YT影视,http://ytys.cc/api.php/provide/vod/at/xml,不解析
 嘿锋影视,https://www.hfys8.vip/api.php/provide/vod/at/xml,不解析
 605资源,http://www.605zy.co/inc/api.php,不解析
-追剧喵,https://zjmiao.com/api.php/provide/vod/at/xml,不解析
+追剧喵,https://zjmiao.com/api.php/provide/vod/at/xml,解析
 私人地址,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,不解析
 电牛,https://www.dianyingn.com/api.php/provide/vod/at/xml/,不解析
 天空1,http://api.tiankongapi.com/api.php/provide/vod/at/xml,不解析
