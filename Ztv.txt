@@ -22,9 +22,7 @@ BL视频,https://bljiex.com/api.php/provide/vod/at/xml,不解析
 0号资源,http://api.000zy.com/provide/vod/at/xml/,不解析
 游艺,https://zhicai.u1o.net/api.php/provide/vod/at/xml,不解析
 百度采集,https://api.bdjx.vip/api.php/provide/vod/at/xml/,解析
-09蓝光,https://09tv.top/api.php/provide/vod/at/xml,不解析
 任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,不解析
-爱看1080,http://www.ik1080.com/api.php/provide/vod/at/xml,不解析
 YT影视,http://ytys.cc/api.php/provide/vod/at/xml,不解析
 嘿锋影视,https://www.hfys8.vip/api.php/provide/vod/at/xml,不解析
 605资源,http://www.605zy.co/inc/api.php,不解析
