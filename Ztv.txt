@@ -2,6 +2,9 @@
 极品资源,https://www.jpysvip.net/api.php/provide/vod/at/xml/,不解析
 快播云,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
 欧乐影视,https://www.olevod.com/api.php/provide/vod/at/xml,解析
+灵芝源,https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml,不解析
+孤单影院,http://www.gudanys.com/api.php/provide/vod/at/xml,不解析
+TV盒,http://cms.tvbox543.com/api.php/provide/vod/at/xml,不解析
 哎旦影视,https://www.lovedan.net/api.php/provide/vod/at/xml/,不解析
 明日影视,http://zy.zcocc.com/api.php/provide/vod/at/xml/,不解析
 39影视,https://www.39kan.com/api.php/provide/vod/at/xml,不解析
