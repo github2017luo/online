@@ -29,8 +29,8 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,不解析
 追剧喵,https://zjmiao.com/api.php/provide/vod/at/xml,不解析
 私人地址,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,不解析
 电牛,https://www.dianyingn.com/api.php/provide/vod/at/xml/,不解析
-天空,http://api.tiankongapi.com/api.php/provide/vod/at/xml,不解析
-天空,https://caiji.tiankongapi.com/inc/api.php,不解析
+天空1,http://api.tiankongapi.com/api.php/provide/vod/at/xml,不解析
+天空2,https://caiji.tiankongapi.com/inc/api.php,不解析
 白熊,https://www.bxyy5.com/api.php/provide/vod/at/xml,不解析
 阿里,http://www.feishi.ltd/api.php/provide/vod/at/xml,不解析
 88,http://www.88zyw.net/inc/api.php,不解析
