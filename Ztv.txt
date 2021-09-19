@@ -53,4 +53,8 @@ Ckplayer,https://www.ckplayer.vip/jiexi/?url=
 月亮,http://vip.jianjians.com/?url=
 660,https://660e.com/?url=
 2A,https://www.2ajx.com/vip.php?url=
+4080,https://jx.4080jx.cc/?url=
+暮光,https://www.mgtv.com.muguangys.com/jiexi1.php?url=
+瓜皮,http://jxx.dijiaxia.com/?url=
+Par,https://jx.ihuikr.com/player/?url=
 结束
