@@ -57,4 +57,11 @@ Ckplayer,https://www.ckplayer.vip/jiexi/?url=
 暮光,https://www.mgtv.com.muguangys.com/jiexi1.php?url=
 瓜皮,http://jxx.dijiaxia.com/?url=
 Par,https://jx.ihuikr.com/player/?url=
+锦云,http://go.yh0523.cn/y.cy?url=
+Chok,https://gai4.gitee.io/chok/jx.html?url=
+旧城,https://jx.9eng.cn/?url=
+七哥,https://jx.mmkv.cn/tv.php?url=
+星驰,https://vip.swuii.top/?url=
+Mao,http://lecurl.cn/?url=
+YiTV,http://jiexi.us/?url=
 结束
