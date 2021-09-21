@@ -38,10 +38,11 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 88,http://www.88zyw.net/inc/api.php,解析
 追剧吧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析
 麒麟资源站,https://www.qilinzyz.com/api.php/provide/vod/at/xml,解析
-百度云,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
 番茄,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
 BB资源,http://bbzy.cc/inc/maccms10.php,不解析
 番号,http://fhapi9.com/api.php/Seacms/vod/at/xml,不解析
+乐播,https://lbapi9.com/api.php/provide/vod/at/xml,不解析
+佳丽,https://jialiapi.com/api.php/provide/vod/at/xml,不解析
 结束
 解析：
 Ckplayer,https://www.ckplayer.vip/jiexi/?url=
