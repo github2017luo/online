@@ -10,7 +10,6 @@ TV盒,http://cms.tvbox543.com/api.php/provide/vod/at/xml,解析
 安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,解析
 U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
 爱看1080,http://www.ik1080.com/api.php/provide/vod/at/xml,解析
-神马影院,http://www.zitv.cc/api.php/provide/vod/at/xml/,解析
 随便看,https://www.sbkdy.com/inc/api.php,解析
 飘花电影,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
